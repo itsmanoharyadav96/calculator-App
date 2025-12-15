@@ -19,6 +19,21 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## App Screenshot
 ![React Native Calculator App](./iphone-calculator.png)
 
+## Requirements
+
+- Node.js (v16 or later)
+- Expo CLI (v6.3.14 or later)
+- Git
+
+## Installation
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/itsmanoharyadav96/calculator-App.git
+
+```
+
 ## Watch it on YouTube
 
 This repository is part of a tutorial on my [YouTube channel](https://www.youtube.com/@itzpradip). Check out the complete tutorial on YouTube by clicking below. 👇
